@@ -1,0 +1,14 @@
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/bin/Debug/net8.0/jogoAdivinhacao
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/bin/Debug/net8.0/jogoAdivinhacao.deps.json
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/bin/Debug/net8.0/jogoAdivinhacao.runtimeconfig.json
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/bin/Debug/net8.0/jogoAdivinhacao.dll
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/bin/Debug/net8.0/jogoAdivinhacao.pdb
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.AssemblyInfoInputs.cache
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.AssemblyInfo.cs
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.csproj.CoreCompileInputs.cache
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.dll
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/refint/jogoAdivinhacao.dll
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.pdb
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/jogoAdivinhacao.genruntimeconfig.cache
+/home/nicolas-santos/Área de trabalho/Projetos Aluras/Alura C#/jogoAdivinhacao/obj/Debug/net8.0/ref/jogoAdivinhacao.dll
